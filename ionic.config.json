@@ -1,0 +1,7 @@
+{
+  "name": "myADHDApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
